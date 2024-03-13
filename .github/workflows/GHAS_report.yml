@@ -3,7 +3,7 @@ name: GitHub Advanced Security API to CSV
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   generate-report:
